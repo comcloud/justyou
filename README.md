@@ -3,6 +3,10 @@
 
 使用框架：Springboot_Mybatis
 
+使用软件：IDEA，MYSQL
+
+调用接口：BAIDU
+
 
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
