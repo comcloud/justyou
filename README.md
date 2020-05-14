@@ -1,6 +1,10 @@
 #Just You
 一款用于校园交友的网站
 
+使用框架：Springboot_Mybatis
+
+
+
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.7.RELEASE/maven-plugin/)
 * [Spring Configuration Processor](https://docs.spring.io/spring-boot/docs/2.2.7.RELEASE/reference/htmlsingle/#configuration-metadata-annotation-processor)
