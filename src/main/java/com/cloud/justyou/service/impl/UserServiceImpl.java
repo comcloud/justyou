@@ -14,9 +14,10 @@ import org.springframework.stereotype.Service;
 public class UserServiceImpl implements UserService {
     @Autowired
     private UserMapper userMapper;
+
     @Override
-    public void update(User user) {
-        userMapper.updateOne(user);
+    public boolean update(User user) {
+        return userMapper.updateOne(user);
     }
 
     @Override

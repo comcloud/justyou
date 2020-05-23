@@ -10,7 +10,7 @@ public interface UserService {
      * 保存用户信息
      * @param user 更新的用户信息
      */
-    void update(User user);
+    boolean update(User user);
 
     /**
      * 根据用户id获取用户信息

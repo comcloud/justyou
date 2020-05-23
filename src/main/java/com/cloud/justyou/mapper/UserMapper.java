@@ -13,7 +13,7 @@ public interface UserMapper {
      * 更新一个用户
      * @param user 插入用户
      */
-    void updateOne(@Param("user") User user);
+    boolean updateOne(@Param("user") User user);
 
     /**
      * @param userId 用户id

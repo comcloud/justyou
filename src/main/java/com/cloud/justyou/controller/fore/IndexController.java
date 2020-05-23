@@ -1,4 +1,4 @@
-package com.cloud.justyou.controller;
+package com.cloud.justyou.controller.fore;
 
 import org.springframework.stereotype.Controller;
 

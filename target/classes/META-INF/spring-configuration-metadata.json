@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.cloud.justyou.config.datasource.DruidConfiguration",
+      "sourceMethod": "public javax.sql.DataSource druidDataSource() "
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
